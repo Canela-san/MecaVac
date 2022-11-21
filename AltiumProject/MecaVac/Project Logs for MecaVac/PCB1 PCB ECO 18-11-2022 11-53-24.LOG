@@ -1,0 +1,370 @@
+Removed Pin From Net: NetName=NetC6_2 Pin=J2-8
+Removed Pin From Net: NetName=NetC6_2 Pin=J2-9
+Removed Pin From Net: NetName=NetC6_2 Pin=J2-10
+Removed Pin From Net: NetName=NetC6_2 Pin=J2-11
+Removed Pin From Net: NetName=NetC6_2 Pin=J2-12
+Removed Pin From Net: NetName=GND Pin=J3-6
+Removed Pin From Net: NetName=GND Pin=J3-11
+Removed Pin From Net: NetName=GND Pin=J3-12
+Removed Pin From Net: NetName=GND Pin=J3-13
+Removed Pin From Net: NetName=+12V Pin=J4-1
+Removed Pin From Net: NetName=NetD4_1 Pin=J4-2
+Removed Pin From Net: NetName=+12V Pin=J5-1
+Removed Pin From Net: NetName=NetD5_1 Pin=J5-2
+Removed Pin From Net: NetName=NetF1_1 Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=MD1-11
+Removed Pin From Net: NetName=NetJ2_2 Pin=MD1-12
+Removed Pin From Net: NetName=NetJ2_4 Pin=MD1-30
+Removed Pin From Net: NetName=NetJ2_5 Pin=MD1-31
+Removed Pin From Net: NetName=+3.3V Pin=R5-1
+Removed Pin From Net: NetName=+3.3V Pin=R6-1
+Removed Pin From Net: NetName=NetJ2_2 Pin=R29-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=R31-2
+Removed Pin From Net: NetName=NetJ2_4 Pin=R32-2
+Removed Pin From Net: NetName=NetJ2_5 Pin=R34-2
+Removed Member From Class: ClassName=Main Member=J4
+Removed Member From Class: ClassName=Main Member=J5
+Removed Member From Class: ClassName=Main Member=J6
+Change Component Footprint: Designator=J3 Old Footprint=FP-DM3CS-SF-MFG New Footprint=FP-FTSH-105-01-L-DV-K-TR-MFG
+Change Component Comment : Designator=J3 Old Comment=DM3CS-SF New Comment=FTSH-105-01-L-DV-K-TR
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C1
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D4
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q3
+Change Component Designator: OldDesignator=R3 NewDesignator=R15
+Change Component Designator: OldDesignator=R4 NewDesignator=R20
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R23
+Change Component Designator: OldDesignator=R12 NewDesignator=R26
+Change Component Designator: OldDesignator=R13 NewDesignator=R24
+Change Component Designator: OldDesignator=R14 NewDesignator=R31
+Change Component Designator: OldDesignator=R15 NewDesignator=R33
+Change Component Designator: OldDesignator=R16 NewDesignator=R32
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R36
+Change Component Designator: OldDesignator=R19 NewDesignator=R37
+Change Component Designator: OldDesignator=R20 NewDesignator=R34
+Change Component Designator: OldDesignator=R21 NewDesignator=R35
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R4
+Change Component Designator: OldDesignator=R24 NewDesignator=R5
+Change Component Designator: OldDesignator=R25 NewDesignator=R22
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R11
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R29 NewDesignator=R12
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Change Component Designator: OldDesignator=R31 NewDesignator=R13
+Change Component Designator: OldDesignator=R32 NewDesignator=R14
+Change Component Designator: OldDesignator=R33 NewDesignator=R29
+Change Component Designator: OldDesignator=R34 NewDesignator=R17
+Change Component Designator: OldDesignator=R35 NewDesignator=R30
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F4D7884B-E837-4CE2-A40C-B7130F633C2A New ItemGUID=ED32938A-107E-45A0-B3E9-69E81E5322FF Old RevisionGUID=BCC9A6BF-11BC-4802-8C74-A5FF00C63C4F New RevisionGUID=8C0E499C-1C2C-403D-9744-972D09B127D4
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FP-DM3CS-SF-MFG"; UniqueID = "\EXXPKKGE" ("\EXXPKKGE")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "0.12inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1.75A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "3.43mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "6.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "1.75A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "550"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.27mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "0.05inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=P1(PHOE-1803426_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.phoenixcontact.com/online/portal/cn/pxc/product_detail_page/!ut/p/b1/3VfHjrNIGHyWeQDG5HAkm5zjxQIM2AQDNvnp1zNa7WFX889l5YPpA6L1qUtVdFX3d4gPEYCiFAaBJHgID_Etma9lMl67W9J8fcf4iRJ1HIRRHAIZDANpTKVtR3IFAyUOwSEE0ZNTbb2iOquuOqg8OKsEReRD0XpT8cAJtHK1h62gd5Lwwj7fSR7gfNZiWNE2tu2Xg71pvaHw3VHbDIccysUbixteZxggMWJnxWgP9KIolKko13HrKNI0OD69xjcsLwZb9oJmcNi4flh1xw9LW6-eWTQ9nREGMg82nQ7i5d6Jdk07dw7fZbrokLagaoyYggEvB4C7H5W4HERjSAam7I1pSvC1iqzSu8itk8CidtE6n3bP2nD0Pp6iRD-LQiLob5pFzwLixwIWO7iH0PcgleukhedgldkYbrFLA5WSM7ufG5_qGPkUc9vEzZQaS901mlWkPYn5tWxhabkCUfW4SsSIbpPuMIJHpQReslhERyEnqVrZBIU1V5Nilrs5X123FVtC3BVOSLHMP1b6PfXsNSgk1T-F50SEmtzqQUXqhsW5rwQ1o0BXB2gELrcQ4gCUoNAFTBX6N2LEmxJz0Hclhr8rsXf1mPOuHoPf1WPwu3oMflePSW-7Fd81PGj4i1jqc2r6kGnO3K4b7QxsE14hAduG8C7FaT2GvZ7I-s0j05SGAI1kaO9y99Mt55acg9cLDNYaWwQcdDTPAtjrfMY1OBkOcVEr9HZ8tGspIQLbIVDtpjctgzHFMG4BAZsGvQthBBH4WA-nFo17BJ08nhvnnSIvtClxxDZLZLDt43EXgXAD-FUl6xp1LReX8w3Sb-3dEFiLergsTPmiPWlKHKTnUE9MvjMWis8MoKAxhXcLRQoyR1OjaJFnuS2q9AQSlWi71_PQS1I7hwNcTAR9vGjIY_k4yIf4mrafS9Z-gp_9mn329-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.81 mm, 1 x 2 Position, Height 9.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1803426"; VariantName = "[No Variations]"
+Added Component: Designator=P2(PHOE-1803426_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.phoenixcontact.com/online/portal/cn/pxc/product_detail_page/!ut/p/b1/3VfHjrNIGHyWeQDG5HAkm5zjxQIM2AQDNvnp1zNa7WFX889l5YPpA6L1qUtVdFX3d4gPEYCiFAaBJHgID_Etma9lMl67W9J8fcf4iRJ1HIRRHAIZDANpTKVtR3IFAyUOwSEE0ZNTbb2iOquuOqg8OKsEReRD0XpT8cAJtHK1h62gd5Lwwj7fSR7gfNZiWNE2tu2Xg71pvaHw3VHbDIccysUbixteZxggMWJnxWgP9KIolKko13HrKNI0OD69xjcsLwZb9oJmcNi4flh1xw9LW6-eWTQ9nREGMg82nQ7i5d6Jdk07dw7fZbrokLagaoyYggEvB4C7H5W4HERjSAam7I1pSvC1iqzSu8itk8CidtE6n3bP2nD0Pp6iRD-LQiLob5pFzwLixwIWO7iH0PcgleukhedgldkYbrFLA5WSM7ufG5_qGPkUc9vEzZQaS901mlWkPYn5tWxhabkCUfW4SsSIbpPuMIJHpQReslhERyEnqVrZBIU1V5Nilrs5X123FVtC3BVOSLHMP1b6PfXsNSgk1T-F50SEmtzqQUXqhsW5rwQ1o0BXB2gELrcQ4gCUoNAFTBX6N2LEmxJz0Hclhr8rsXf1mPOuHoPf1WPwu3oMflePSW-7Fd81PGj4i1jqc2r6kGnO3K4b7QxsE14hAduG8C7FaT2GvZ7I-s0j05SGAI1kaO9y99Mt55acg9cLDNYaWwQcdDTPAtjrfMY1OBkOcVEr9HZ8tGspIQLbIVDtpjctgzHFMG4BAZsGvQthBBH4WA-nFo17BJ08nhvnnSIvtClxxDZLZLDt43EXgXAD-FUl6xp1LReX8w3Sb-3dEFiLergsTPmiPWlKHKTnUE9MvjMWis8MoKAxhXcLRQoyR1OjaJFnuS2q9AQSlWi71_PQS1I7hwNcTAR9vGjIY_k4yIf4mrafS9Z-gp_9mn329-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.81 mm, 1 x 2 Position, Height 9.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1803426"; VariantName = "[No Variations]"
+Added Component: Designator=P3(PHOE-1803426_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.phoenixcontact.com/online/portal/cn/pxc/product_detail_page/!ut/p/b1/3VfHjrNIGHyWeQDG5HAkm5zjxQIM2AQDNvnp1zNa7WFX889l5YPpA6L1qUtVdFX3d4gPEYCiFAaBJHgID_Etma9lMl67W9J8fcf4iRJ1HIRRHAIZDANpTKVtR3IFAyUOwSEE0ZNTbb2iOquuOqg8OKsEReRD0XpT8cAJtHK1h62gd5Lwwj7fSR7gfNZiWNE2tu2Xg71pvaHw3VHbDIccysUbixteZxggMWJnxWgP9KIolKko13HrKNI0OD69xjcsLwZb9oJmcNi4flh1xw9LW6-eWTQ9nREGMg82nQ7i5d6Jdk07dw7fZbrokLagaoyYggEvB4C7H5W4HERjSAam7I1pSvC1iqzSu8itk8CidtE6n3bP2nD0Pp6iRD-LQiLob5pFzwLixwIWO7iH0PcgleukhedgldkYbrFLA5WSM7ufG5_qGPkUc9vEzZQaS901mlWkPYn5tWxhabkCUfW4SsSIbpPuMIJHpQReslhERyEnqVrZBIU1V5Nilrs5X123FVtC3BVOSLHMP1b6PfXsNSgk1T-F50SEmtzqQUXqhsW5rwQ1o0BXB2gELrcQ4gCUoNAFTBX6N2LEmxJz0Hclhr8rsXf1mPOuHoPf1WPwu3oMflePSW-7Fd81PGj4i1jqc2r6kGnO3K4b7QxsE14hAduG8C7FaT2GvZ7I-s0j05SGAI1kaO9y99Mt55acg9cLDNYaWwQcdDTPAtjrfMY1OBkOcVEr9HZ8tGspIQLbIVDtpjctgzHFMG4BAZsGvQthBBH4WA-nFo17BJ08nhvnnSIvtClxxDZLZLDt43EXgXAD-FUl6xp1LReX8w3Sb-3dEFiLergsTPmiPWlKHKTnUE9MvjMWis8MoKAxhXcLRQoyR1OjaJFnuS2q9AQSlWi71_PQS1I7hwNcTAR9vGjIY_k4yIf4mrafS9Z-gp_9mn329-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.81 mm, 1 x 2 Position, Height 9.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1803426"; VariantName = "[No Variations]"
+Added Component: Designator=P4(PHOE-1803426_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.phoenixcontact.com/online/portal/cn/pxc/product_detail_page/!ut/p/b1/3VfHjrNIGHyWeQDG5HAkm5zjxQIM2AQDNvnp1zNa7WFX889l5YPpA6L1qUtVdFX3d4gPEYCiFAaBJHgID_Etma9lMl67W9J8fcf4iRJ1HIRRHAIZDANpTKVtR3IFAyUOwSEE0ZNTbb2iOquuOqg8OKsEReRD0XpT8cAJtHK1h62gd5Lwwj7fSR7gfNZiWNE2tu2Xg71pvaHw3VHbDIccysUbixteZxggMWJnxWgP9KIolKko13HrKNI0OD69xjcsLwZb9oJmcNi4flh1xw9LW6-eWTQ9nREGMg82nQ7i5d6Jdk07dw7fZbrokLagaoyYggEvB4C7H5W4HERjSAam7I1pSvC1iqzSu8itk8CidtE6n3bP2nD0Pp6iRD-LQiLob5pFzwLixwIWO7iH0PcgleukhedgldkYbrFLA5WSM7ufG5_qGPkUc9vEzZQaS901mlWkPYn5tWxhabkCUfW4SsSIbpPuMIJHpQReslhERyEnqVrZBIU1V5Nilrs5X123FVtC3BVOSLHMP1b6PfXsNSgk1T-F50SEmtzqQUXqhsW5rwQ1o0BXB2gELrcQ4gCUoNAFTBX6N2LEmxJz0Hclhr8rsXf1mPOuHoPf1WPwu3oMflePSW-7Fd81PGj4i1jqc2r6kGnO3K4b7QxsE14hAduG8C7FaT2GvZ7I-s0j05SGAI1kaO9y99Mt55acg9cLDNYaWwQcdDTPAtjrfMY1OBkOcVEr9HZ8tGspIQLbIVDtpjctgzHFMG4BAZsGvQthBBH4WA-nFo17BJ08nhvnnSIvtClxxDZLZLDt43EXgXAD-FUl6xp1LReX8w3Sb-3dEFiLergsTPmiPWlKHKTnUE9MvjMWis8MoKAxhXcLRQoyR1OjaJFnuS2q9AQSlWi71_PQS1I7hwNcTAR9vGjIY_k4yIf4mrafS9Z-gp_9mn329-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "02/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.81 mm, 1 x 2 Position, Height 9.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1803426"; VariantName = "[No Variations]"
+Added Component: Designator=R3(FP-CRCW0805-e3-IPC_B)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000194oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R10(FP-CRCW0805-e3-IPC_A)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000194oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R16(FP-CRCW0805-e3-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000194oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=R18(FP-CRCW0805-e3-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000194oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=SD1(MOLX-503398-1892_V)
+Add component (AddParameter): Name = "Brand"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/5033981892_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. E, 04/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "2400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Micro SD Connector, Pitch 1.1 mm, 8 Position, Height 1.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "503398-1892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "MemoryCardConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "503398"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10VAC/DC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_2 Pin=J1-4
+Added Pin To Net: NetName=+3.3V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=+3.3V Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=+3.3V Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=+3.3V Pin=J3-8
+Added Pin To Net: NetName=+3.3V Pin=J3-10
+Added Pin To Net: NetName=NetJ2_2 Pin=MD1-8
+Added Pin To Net: NetName=NetJ2_4 Pin=MD1-11
+Added Pin To Net: NetName=NetJ2_3 Pin=MD1-12
+Added Pin To Net: NetName=NetJ2_5 Pin=MD1-30
+Added Pin To Net: NetName=NetJ2_6 Pin=MD1-31
+Added Pin To Net: NetName=+12V Pin=P1-1
+Added Pin To Net: NetName=NetD4_1 Pin=P1-2
+Added Pin To Net: NetName=+12V Pin=P2-1
+Added Pin To Net: NetName=NetD5_1 Pin=P2-2
+Added Pin To Net: NetName=+12V Pin=P3-1
+Added Pin To Net: NetName=NetF1_1 Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=+3.3V Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetJ2_2 Pin=R11-2
+Added Pin To Net: NetName=NetJ2_3 Pin=R12-2
+Added Pin To Net: NetName=NetJ2_4 Pin=R13-2
+Added Pin To Net: NetName=NetJ2_5 Pin=R14-2
+Added Pin To Net: NetName=NetJ2_6 Pin=R17-2
+Added Pin To Net: NetName=+3.3V Pin=SD1-4
+Added Pin To Net: NetName=GND Pin=SD1-6
+Added Pin To Net: NetName=GND Pin=SD1-11
+Added Pin To Net: NetName=GND Pin=SD1-12
+Added Pin To Net: NetName=GND Pin=SD1-13
+Added Pin To Net: NetName=GND Pin=SD1-14
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetQ2_3 New Net Name=NetQ6_3
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ7_1
+Change Net Name : Old Net Name=NetQ4_3 New Net Name=NetQ7_3
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ6_3 New Net Name=NetQ2_3
+Change Net Name : Old Net Name=NetQ7_1 New Net Name=NetQ3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=P3-2
+Added Pin To Net: NetName=NetD4_1 Pin=Q3-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetJ2_8 Pin=J2-8
+Added Pin To Net: NetName=NetJ2_8 Pin=MD1-36
+Added Pin To Net: NetName=NetJ2_8 Pin=R5-2
+Added Net: Name=NetJ2_8
+Added Pin To Net: NetName=NetJ2_9 Pin=J2-9
+Added Pin To Net: NetName=NetJ2_9 Pin=MD1-28
+Added Pin To Net: NetName=NetJ2_9 Pin=R3-2
+Added Net: Name=NetJ2_9
+Added Pin To Net: NetName=NetJ2_10 Pin=J2-10
+Added Pin To Net: NetName=NetJ2_10 Pin=MD1-27
+Added Pin To Net: NetName=NetJ2_10 Pin=R10-2
+Added Net: Name=NetJ2_10
+Added Pin To Net: NetName=NetJ2_11 Pin=J2-11
+Added Pin To Net: NetName=NetJ2_11 Pin=R16-2
+Added Net: Name=NetJ2_11
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-12
+Added Pin To Net: NetName=NetJ2_12 Pin=R18-2
+Added Net: Name=NetJ2_12
+Added Pin To Net: NetName=NetMD1_13 Pin=MD1-13
+Added Pin To Net: NetName=NetMD1_13 Pin=R8-2
+Added Pin To Net: NetName=NetMD1_13 Pin=SD1-5
+Added Net: Name=NetMD1_13
+Added Pin To Net: NetName=NetMD1_14 Pin=MD1-14
+Added Pin To Net: NetName=NetMD1_14 Pin=R6-2
+Added Pin To Net: NetName=NetMD1_14 Pin=SD1-2
+Added Net: Name=NetMD1_14
+Added Pin To Net: NetName=NetMD1_16 Pin=MD1-16
+Added Pin To Net: NetName=NetMD1_16 Pin=R7-2
+Added Pin To Net: NetName=NetMD1_16 Pin=SD1-3
+Added Net: Name=NetMD1_16
+Added Pin To Net: NetName=NetMD1_23 Pin=MD1-23
+Added Pin To Net: NetName=NetMD1_23 Pin=R9-2
+Added Pin To Net: NetName=NetMD1_23 Pin=SD1-7
+Added Net: Name=NetMD1_23
+Added Pin To Net: NetName=NetMD1_24 Pin=MD1-24
+Added Pin To Net: NetName=NetMD1_24 Pin=R16-1
+Added Net: Name=NetMD1_24
+Added Pin To Net: NetName=NetMD1_26 Pin=MD1-26
+Added Pin To Net: NetName=NetMD1_26 Pin=R18-1
+Added Net: Name=NetMD1_26
+Added Pin To Net: NetName=NetMD1_29 Pin=MD1-29
+Added Pin To Net: NetName=NetMD1_29 Pin=R27-1
+Added Net: Name=NetMD1_29
+Added Member To Class: ClassName=Main Member=Component P1 Peltier 1
+Added Member To Class: ClassName=Main Member=Component P2 Peltier 2
+Added Member To Class: ClassName=Main Member=Component P3 Lâmpada
+Added Member To Class: ClassName=Main Member=Component P4 Power
+Added Member To Class: ClassName=Main Member=Component R36 CRCW0805100KFKEA
+Added Member To Class: ClassName=Main Member=Component R37 CRCW080510K0FKEA
+Added Member To Class: ClassName=Main Member=Component SD1 503398-1892
+Added Room: Name=Main

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=SW1 NewDesignator=BOOT
+Change Component Designator: OldDesignator=SW2 NewDesignator=RESET
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetBOOT_2
