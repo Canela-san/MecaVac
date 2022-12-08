@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=+12V Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=+12V Pin=P10-2
+Added Member To Class: ClassName=MecaVac Member=Component C13 C0603C471J5GACTU
+Added Member To Class: ClassName=MecaVac Member=Component C15 C0603C471J5GACTU
+Added Member To Class: ClassName=MecaVac Member=Component C16 T491D476K025AT
+Added Member To Class: ClassName=MecaVac Member=Component P4 22-27-2041
+Added Member To Class: ClassName=MecaVac Member=Component P9 22-27-2021
+Added Member To Class: ClassName=MecaVac Member=Component P10 22-27-2021
+Added Member To Class: ClassName=MecaVac Member=Component Q2 IRF1404PBF
+Added Member To Class: ClassName=MecaVac Member=Component Q4 IRF1404PBF
+Added Member To Class: ClassName=MecaVac Member=Component Q6 BC807-40-7-F
+Added Member To Class: ClassName=MecaVac Member=Component Q8 BC846BLT1G
+Added Member To Class: ClassName=MecaVac Member=Component R23 CRCW080510K0FKEA
+Added Member To Class: ClassName=MecaVac Member=Component R25 ERA6AEB102V
+Added Member To Class: ClassName=MecaVac Member=Component R27 ERA6AEB102V
+Added Member To Class: ClassName=MecaVac Member=Component R30 ERJ-6GEYJ151V
+Added Member To Class: ClassName=MecaVac Member=Component R33 ERJ-6GEYJ151V
+Added Member To Class: ClassName=MecaVac Member=Component R35 CRCW0805100KFKEA
+Added Member To Class: ClassName=MecaVac Member=Component R38 CRCW080510K0FKEA

@@ -1,0 +1,36 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MecaVac.PrjPcb]
+   Generated File[PCB1.GTO]
+   Generated File[PCB1.GTP]
+   Generated File[PCB1.GTS]
+   Generated File[PCB1.GTL]
+   Generated File[PCB1.GBL]
+   Generated File[PCB1.GBS]
+   Generated File[PCB1.GBP]
+   Generated File[PCB1.GBO]
+   Generated File[PCB1.GM1]
+   Generated File[PCB1.GM5]
+   Generated File[PCB1.GM13]
+   Generated File[PCB1.GM15]
+   Generated File[PCB1.GM16]
+   Generated File[PCB1.GM20]
+   Generated File[PCB1.GM21]
+   Generated File[PCB1.GM23]
+   Generated File[PCB1.GM24]
+   Generated File[PCB1.GKO]
+   Generated File[PCB1.GPT]
+   Generated File[PCB1.GPB]
+   Generated File[PCB1.1]
+   Generated File[PCB1.GML]
+   Generated File[PCB1.GD1]
+   Generated File[PCB1.GG1]
+   Generated File[PCB1.RUL]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 20:56:21 On 08/12/2022
