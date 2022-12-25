@@ -1,36 +1,10 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of Project [MecaVac.PrjPcb]
-   Generated File[MecaVac.GTO]
-   Generated File[MecaVac.GTP]
-   Generated File[MecaVac.GTS]
-   Generated File[MecaVac.GTL]
-   Generated File[MecaVac.GBL]
-   Generated File[MecaVac.GBS]
-   Generated File[MecaVac.GBP]
-   Generated File[MecaVac.GBO]
-   Generated File[MecaVac.GM1]
-   Generated File[MecaVac.GM5]
-   Generated File[MecaVac.GM13]
-   Generated File[MecaVac.GM15]
-   Generated File[MecaVac.GM16]
-   Generated File[MecaVac.GM20]
-   Generated File[MecaVac.GM21]
-   Generated File[MecaVac.GM23]
-   Generated File[MecaVac.GM24]
-   Generated File[MecaVac.GKO]
-   Generated File[MecaVac.GPT]
-   Generated File[MecaVac.GPB]
-   Generated File[MecaVac.GML]
-   Generated File[MecaVac.1]
-   Generated File[MecaVac.GD1]
-   Generated File[MecaVac.GG1]
-   Generated File[MecaVac.RUL]
-   Generated File[MecaVac.EXTREP]
-   Generated File[MecaVac.REP]
+   Generated File[Pick Place for MecaVac.csv]
 
 
-Files Generated   : 27
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 21:01:41 On 08/12/2022
+Finished Output Generation At 19:38:14 On 21/12/2022
