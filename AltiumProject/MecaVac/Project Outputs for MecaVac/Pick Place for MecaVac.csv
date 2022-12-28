@@ -4,16 +4,17 @@ C:\Users\Canela\Documents\Projeto\Altium\MecaVac\AltiumProject\MecaVac\Project O
 ========================================================================================================================
 File Design Information:
 
-Date:       21/12/22
-Time:       19:38
-Revision:   Not in VersionControl
+Date:       27/12/22
+Time:       20:21
+Revision:   edc01362240d23f7dcebd4ed4774acdb00445b32
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"J2","22-27-2121","TopLayer","FP-22-27-2121-MFG","98.3130mm","4.6990mm","0","CONN HEADER VERT 12POS 2.54MM"
 "F1","64600001223","TopLayer","FP-64600001223-MFG","28.7020mm","6.3500mm","180","FUSE BLOCK CART 250V 6.3A PCB"
-"SW2","PTS645SM43SMTR92LFS","TopLayer","FP-PTS645SM43SMTR92LFS-MFG","114.5900mm","56.2990mm","270","SWITCH TACTILE SPST-NO 0.05A 12V"
-"SW1","PTS645SM43SMTR92LFS","TopLayer","FP-PTS645SM43SMTR92LFS-MFG","114.5900mm","24.0462mm","270","SWITCH TACTILE SPST-NO 0.05A 12V"
+"SW2","RESET","TopLayer","FP-B3S-1000P-MFG","114.5900mm","56.2990mm","270","SWITCH TACTILE SPST-NO 0.05A 24V"
+"SW1","BOOT","TopLayer","FP-B3S-1000P-MFG","114.5900mm","24.0462mm","270","SWITCH TACTILE SPST-NO 0.05A 24V"
 "LS1","PKB24SPCH3601-B0","TopLayer","FP-PKB24SPCH3601-B0-MFG","14.0000mm","66.0000mm","90","AUDIO PIEZO TRANSDUCER 3-15V TH"
 "P9","22-27-2021","TopLayer","MOLX-22-27-2021_V","52.7050mm","61.8490mm","180","Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 11.7 mm, Tail Length 3.56 mm, 0 to 75 degC, RoHS, Bulk"
 "P10","22-27-2021","TopLayer","MOLX-22-27-2021_V","46.3550mm","61.8490mm","180","Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 11.7 mm, Tail Length 3.56 mm, 0 to 75 degC, RoHS, Bulk"
@@ -80,7 +81,6 @@ Units used: mm
 "P2","Peltier 2","TopLayer","PHOE-1803426_V","11.6840mm","33.5915mm","90","Male Header, Pitch 3.81 mm, 1 x 2 Position, Height 9.2 mm, Tail Length 3.4 mm"
 "P1","Peltier 1","TopLayer","PHOE-1803426_V","11.6840mm","21.2090mm","90","Male Header, Pitch 3.81 mm, 1 x 2 Position, Height 9.2 mm, Tail Length 3.4 mm"
 "MD1","ESP32-WROOM-32D","TopLayer","FP-ESP32-WROOM-32D-MFG","102.5050mm","40.0000mm","270","WIFI MODULE 32MBITS SPI FLASH"
-"J2","22-27-2121","TopLayer","FP-22-27-2121-MFG","97.6630mm","4.6990mm","0","CONN HEADER VERT 12POS 2.54MM"
 "J1","22-27-2121","TopLayer","FP-22-27-2121-MFG","98.3130mm","75.3110mm","180","CONN HEADER VERT 12POS 2.54MM"
 "D7","LTST-C191TBKT","TopLayer","FP-LTST-C191TBKT-MFG","96.7740mm","57.7850mm","90","LED BLUE CLEAR CHIP SMD"
 "D6","BAT54HT1G","TopLayer","ONSC-SOD-323-2-477-02_V","27.5590mm","34.6710mm","90","Schottky Barrier Diode, 2-Pin SOD-323, Pb-Free, Tape and Reel"
