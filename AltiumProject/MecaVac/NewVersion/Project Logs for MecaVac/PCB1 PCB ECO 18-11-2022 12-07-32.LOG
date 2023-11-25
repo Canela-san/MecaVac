@@ -1,0 +1,29 @@
+Added Pin To Net: NetName=GND Pin=SD1-9
+Added Pin To Net: NetName=GND Pin=SD1-10
+Added Member To Class: ClassName=Main Member=Component C2 47uF
+Added Member To Class: ClassName=Main Member=Component C3 47uF
+Added Member To Class: ClassName=Main Member=Component C4 47uF
+Added Member To Class: ClassName=Main Member=Component C5 Super Capacitor 1F 5.5V
+Added Member To Class: ClassName=Main Member=Component C6 1F
+Added Member To Class: ClassName=Main Member=Component C8 TAJA104K035RNJ
+Added Member To Class: ClassName=Main Member=Component D6 BAT54HT1G
+Added Member To Class: ClassName=Main Member=Component Q1 BC846BLT1G
+Added Member To Class: ClassName=Main Member=Component Q4 IRF1404PBF
+Added Member To Class: ClassName=Main Member=Component Q5 IRF1404PBF
+Added Member To Class: ClassName=Main Member=Component Q6 BC807-40-7-F
+Added Member To Class: ClassName=Main Member=Component R3 CRCW08054K70FKEA
+Added Member To Class: ClassName=Main Member=Component R5 CRCW080510K0FKEA
+Added Member To Class: ClassName=Main Member=Component R6 CRCW080547K0FKEA
+Added Member To Class: ClassName=Main Member=Component R8 CRCW080547K0FKEA
+Added Member To Class: ClassName=Main Member=Component R10 CRCW080510K0FKEA
+Added Member To Class: ClassName=Main Member=Component R11 CRCW080510K0FKEA
+Added Member To Class: ClassName=Main Member=Component R12 CRCW080510K0FKEA
+Added Member To Class: ClassName=Main Member=Component R16 CRCW0805220RFKEA
+Added Member To Class: ClassName=Main Member=Component R18 CRCW0805220RFKEA
+Added Member To Class: ClassName=Main Member=Component R21 ERA6AEB102V
+Added Member To Class: ClassName=Main Member=Component R23 CRCW080510K0FKEA
+Added Member To Class: ClassName=Main Member=Component R30 CRCW080510K0FKEA
+Added Member To Class: ClassName=Main Member=Component R32 CRCW080510K0FKEA
+Added Member To Class: ClassName=Main Member=Component R33 ERJ-6GEYJ151V
+Added Member To Class: ClassName=Main Member=Component R34 CRCW0805100KFKEA
+Added Room: Name=Main

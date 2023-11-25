@@ -1,0 +1,206 @@
+Removed Pin From Net: NetName=+12V Pin=J3-1
+Removed Pin From Net: NetName=+3.3V Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=+3.3V Pin=J3-4
+Removed Pin From Net: NetName=+12V Pin=J3-5
+Removed Pin From Net: NetName=+3.3V Pin=J3-6
+Removed Pin From Net: NetName=GND Pin=J3-7
+Removed Pin From Net: NetName=+3.3V Pin=J3-8
+Removed Pin From Net: NetName=GND Pin=J3-9
+Removed Pin From Net: NetName=+3.3V Pin=J3-10
+Removed Member From Class: ClassName=MecaVac Member=J3
+Change Component Designator: OldDesignator=C12 NewDesignator=C16
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C16 NewDesignator=C15
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q9
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q9 NewDesignator=Q8
+Change Component Designator: OldDesignator=R23 NewDesignator=R39
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R36
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Change Component Designator: OldDesignator=R39 NewDesignator=R38
+Added Component: Designator=P4(MOLX-22-27-2041_V)
+Add component (AddParameter): Name = "Contact material"; Value = "Tinplatedbrass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/022272041_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing material"; Value = "Nylon(UL94V-0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature"; Value = "0degCto+75degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=P6(MOLX-22-27-2021_V)
+Add component (AddParameter): Name = "Contact material"; Value = "Tinplatedbrass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Max"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/022272021_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing material"; Value = "Nylon(UL94V-0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature"; Value = "0°Cto+75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Leads Header, Body 5.08 x 5.8 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. BC, 02/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "0022272021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Max"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=P7(MOLX-22-27-2021_V)
+Add component (AddParameter): Name = "Contact material"; Value = "Tinplatedbrass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Max"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/022272021_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing material"; Value = "Nylon(UL94V-0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature"; Value = "0°Cto+75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Leads Header, Body 5.08 x 5.8 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. BC, 02/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "0022272021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Max"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=P8(MOLX-22-27-2041_V)
+Add component (AddParameter): Name = "Contact material"; Value = "Tinplatedbrass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/022272041_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing material"; Value = "Nylon(UL94V-0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature"; Value = "0degCto+75degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=P9(MOLX-22-27-2021_V)
+Add component (AddParameter): Name = "Contact material"; Value = "Tinplatedbrass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Max"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/022272021_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing material"; Value = "Nylon(UL94V-0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature"; Value = "0°Cto+75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Leads Header, Body 5.08 x 5.8 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. BC, 02/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "0022272021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Max"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=P10(MOLX-22-27-2021_V)
+Add component (AddParameter): Name = "Contact material"; Value = "Tinplatedbrass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Max"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/022272021_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing material"; Value = "Nylon(UL94V-0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature"; Value = "0°Cto+75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Leads Header, Body 5.08 x 5.8 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. BC, 02/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "0022272021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Max"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=P11(MOLX-22-27-2021_V)
+Add component (AddParameter): Name = "Contact material"; Value = "Tinplatedbrass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Max"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current rating"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/pdm_docs/sd/022272021_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing material"; Value = "Nylon(UL94V-0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature"; Value = "0°Cto+75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Leads Header, Body 5.08 x 5.8 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "22-27-2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. BC, 02/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "0022272021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Max"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=+3.3V Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=+3.3V Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=+12V Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=+12V Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=+3.3V Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=+3.3V Pin=P8-4
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=+12V Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=+12V Pin=P10-2
+Added Pin To Net: NetName=GND Pin=P11-1
+Added Pin To Net: NetName=+5V Pin=P11-2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC15_1
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ6_3 New Net Name=NetQ5_3
+Change Net Name : Old Net Name=NetQ7_3 New Net Name=NetQ6_3
+Added Member To Class: ClassName=MecaVac Member=Component P5 Power
+Added Member To Class: ClassName=MecaVac Member=Component P6 22-27-2021
+Added Member To Class: ClassName=MecaVac Member=Component P7 22-27-2021
+Added Member To Class: ClassName=MecaVac Member=Component P8 22-27-2041
+Added Member To Class: ClassName=MecaVac Member=Component P9 22-27-2021
+Added Member To Class: ClassName=MecaVac Member=Component P10 22-27-2021
+Added Member To Class: ClassName=MecaVac Member=Component P11 22-27-2021
+Added Room: Name=MecaVac

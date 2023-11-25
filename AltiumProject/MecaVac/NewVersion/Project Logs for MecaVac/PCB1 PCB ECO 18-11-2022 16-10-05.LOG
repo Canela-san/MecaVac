@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=J1-9
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J1-11
+Removed Pin From Net: NetName=GND Pin=J1-12
+Removed Pin From Net: NetName=NetJ1_8 Pin=MD1-20
+Removed Pin From Net: NetName=NetJ2_7 Pin=MD1-33
+Removed Pin From Net: NetName=NetLS1_2 Pin=Q1-3
+Removed Pin From Net: NetName=NetJ2_7 Pin=R4-2
+Removed Pin From Net: NetName=NetLS1_1 Pin=R12-2
+Removed Pin From Net: NetName=NetLS1_2 Pin=R12-3
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=SD1-9
+Removed Pin From Net: NetName=GND Pin=SD1-10
+Removed Member From Class: ClassName=Main Member=R18
+Change Component Designator: OldDesignator=BOOT NewDesignator=SW1
+Change Component Designator: OldDesignator=RESET NewDesignator=SW2
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-9
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_7 Pin=J2-8
+Added Pin To Net: NetName=NetC9_2 Pin=MD1-11
+Added Pin To Net: NetName=NetJ1_8 Pin=MD1-33
+Added Pin To Net: NetName=NetLS1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetJ1_8 Pin=R4-2
+Added Pin To Net: NetName=NetLS1_2 Pin=R12-2
+Added Pin To Net: NetName=NetLS1_1 Pin=R12-3
+Change Net Name : Old Net Name=NetJ2_5 New Net Name=NetJ2_4
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-11
+Added Pin To Net: NetName=NetJ1_10 Pin=MD1-36
+Added Pin To Net: NetName=NetJ1_10 Pin=R5-2
+Added Net: Name=NetJ1_10
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-12
+Added Pin To Net: NetName=NetJ1_12 Pin=MD1-20
+Added Net: Name=NetJ1_12
+Added Room: Name=Main

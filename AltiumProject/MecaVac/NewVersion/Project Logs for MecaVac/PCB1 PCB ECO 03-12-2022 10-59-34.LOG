@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+12V Pin=J1-1
+Removed Pin From Net: NetName=+5V Pin=J1-2
+Removed Pin From Net: NetName=+3.3V Pin=J2-1
+Removed Pin From Net: NetName=+3.3V Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+12V Pin=J1-2
+Added Pin To Net: NetName=+5V Pin=J2-1
+Added Pin To Net: NetName=+5V Pin=J2-2
+Added Pin To Net: NetName=+12V Pin=J3-1
+Added Pin To Net: NetName=+12V Pin=J3-5
+Added Member To Class: ClassName=MecaVac Member=Component C1 C0603C471J5GACTU
+Added Member To Class: ClassName=MecaVac Member=Component C2 T491D476K025AT
+Added Member To Class: ClassName=MecaVac Member=Component C4 C0603C471J5GACTU
+Added Member To Class: ClassName=MecaVac Member=Component C6 47uF
+Added Member To Class: ClassName=MecaVac Member=Component C8 Super Capacitor 1F 5.5V
+Added Member To Class: ClassName=MecaVac Member=Component C10 TAJA104K035RNJ
+Added Member To Class: ClassName=MecaVac Member=Component C12 T491D476K025AT
+Added Member To Class: ClassName=MecaVac Member=Component C14 C0603C471J5GACTU

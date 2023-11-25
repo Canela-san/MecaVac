@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=NetC10_2 Pin=SW1-1
+Removed Pin From Net: NetName=NetC10_2 Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Pin From Net: NetName=NetC11_2 Pin=SW2-1
+Removed Pin From Net: NetName=NetC11_2 Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW2-3
+Removed Pin From Net: NetName=GND Pin=SW2-4
+Change Component Footprint: Designator=SW1 Old Footprint=FP-PTS645SM43SMTR92LFS-MFG New Footprint=FP-B3S-1000P-MFG
+Change Component Footprint: Designator=SW2 Old Footprint=FP-PTS645SM43SMTR92LFS-MFG New Footprint=FP-B3S-1000P-MFG
+Change Component Comment : Designator=SW1 Old Comment=PTS645SM43SMTR92LFS New Comment=BOOT
+Change Component Comment : Designator=SW2 Old Comment=PTS645SM43SMTR92LFS New Comment=RESET
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7D918995-645B-4FDC-8095-80E6DB4A866E New ItemGUID=89B8D639-0ED9-44E3-B73A-715F49961724 Old RevisionGUID=E6641D53-F4A8-473F-974D-480283649054 New RevisionGUID=30D1CD2C-04BA-47E0-B09A-E3A3D5CFA91A
+Change Managed Component Library Link : Designator=SW2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7D918995-645B-4FDC-8095-80E6DB4A866E New ItemGUID=89B8D639-0ED9-44E3-B73A-715F49961724 Old RevisionGUID=E6641D53-F4A8-473F-974D-480283649054 New RevisionGUID=30D1CD2C-04BA-47E0-B09A-E3A3D5CFA91A
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "FP-PTS645SM43SMTR92LFS-MFG"; UniqueID = "\SKBXFJRU" ("\SKBXFJRU")
+Change component parameters (AddParameter): Name = "Actuator Length"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "100mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "500000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "6.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "500000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Poles"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "1.57N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "IP67"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.010582oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "FP-PTS645SM43SMTR92LFS-MFG"; UniqueID = "\BFTMUGFD" ("\BFTMUGFD")
+Change component parameters (AddParameter): Name = "Actuator Length"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "100mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "500000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "6.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "500000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Poles"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "1.57N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "IP67"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.010582oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=NetC10_2 Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=NetC11_2 Pin=SW2-4
+Added Member To Class: ClassName=MecaVac Member=Component J2 22-27-2121

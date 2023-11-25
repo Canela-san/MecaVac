@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=BOOT NewDesignator=BOOT1
+Change Component Designator: OldDesignator=C6 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C6
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q4
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R10
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R24 NewDesignator=R27
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R36
+Change Component Designator: OldDesignator=R35 NewDesignator=R37
+Change Component Designator: OldDesignator=R36 NewDesignator=R34
+Change Component Designator: OldDesignator=R37 NewDesignator=R35
+Change Component Designator: OldDesignator=RESET NewDesignator=RESET1
+Change Net Name : Old Net Name=NetBOOT_2 New Net Name=NetBOOT1_2
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetQ2_3 New Net Name=NetQ5_3
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ3_1
+Added Member To Class: ClassName=Main Member=Component C9 TAJA104K035RNJ
+Added Room: Name=Main
