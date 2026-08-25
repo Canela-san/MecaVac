@@ -6,7 +6,7 @@
 
 Este repositório reúne o firmware, o projeto de hardware e a documentação técnica do MecaVac — internamente registrado na Mecatron como *Refrigerador de Vacinas* (projeto nº 0000034). Ele também guarda o histórico real de desenvolvimento: sketches de bancada, versões intermediárias do firmware e o início (incompleto) de uma segunda revisão, mantidos aqui como registro de como o projeto evoluiu, não como parte do build final.
 
-![Renderização 3D da PCB do MecaVac — topo e fundo](docs/images/mecavac-pcb-3d.png)
+![Renderização 3D da PCB do MecaVac — topo e fundo](Documentação/imagens/mecavac-pcb-3d.png)
 
 ## Sumário
 
@@ -120,7 +120,7 @@ A PCB foi projetada por mim no Altium Designer — meu primeiro projeto de placa
 | PKB24SPCH3601-B0 | Buzzer piezoelétrico (alarme) |
 | TVS-15V | Proteção contra transientes na entrada de 12 V |
 
-A lista completa de materiais (BOM) e as folhas de fabricação (camadas, drill table, indicação de conectores) estão na documentação técnica exportada em `docs/`.
+A lista completa de materiais (BOM) e as folhas de fabricação (camadas, drill table, indicação de conectores) estão na documentação técnica exportada em `Documentação/`.
 
 ### Mapeamento de pinos (ESP32)
 
@@ -229,8 +229,8 @@ MecaVac/
 │   ├── MecaVac.SchDoc
 │   ├── MecaVac.PcbDoc
 │   └── v2 (descontinuada)/         # Início não finalizado de uma segunda revisão
-├── docs/
-│   ├── images/                     # Imagens usadas neste README
+├── Documentação/
+│   ├── imagens/                     # Imagens usadas neste README
 │   └── Documentação_Refrigerador_de_Vacinas.pdf   # Exportação técnica (dimensões, BOM, pinout, camadas)
 └── README.md
 ```
