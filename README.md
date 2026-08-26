@@ -104,7 +104,7 @@ A PCB foi projetada por mim no Altium Designer — meu primeiro projeto de placa
 - **Backup de energia** com dois supercapacitores de 1F / 5,5 V e circuito de soft-start (limitação de inrush no carregamento), dedicado a manter o sistema vivo por alguns segundos após uma queda de energia — tempo suficiente para gravar o evento no cartão SD.
 - **Leitura de retirada de vacina por escada resistiva**: em vez de uma entrada digital por compartimento, o hardware usa uma rede de microswitches com resistores em escada, lida por uma única entrada analógica — cada combinação de chaves fechadas gera um nível de tensão distinto, decodificado em firmware para identificar qual compartimento (até 15) teve uma vacina retirada.
 
-![Vista isométrica da PCB (Altium 3D)](docs/images/mecavac-pcb-isometric.png)
+![Vista trica da PCB (Altium 3D)](documentação/imagens/mecavac-pcb-isometric.png)
 
 ### Principais componentes
 
@@ -166,7 +166,7 @@ A lista completa de materiais (BOM) e as folhas de fabricação (camadas, drill 
 | Coolers 1, 2 e 3 (dissipação térmica) | +12 V, GND |
 | Entrada de energia | +12 V, GND |
 
-O pinout completo dos conectores (P1–P11, J1, J2) está na documentação técnica exportada em `docs/`.
+O pinout completo dos conectores (P1–P11, J1, J2) está na documentação técnica exportada em `documentação/`.
 
 ## Firmware
 
